@@ -14,7 +14,7 @@
 </div>
 <div align="right">
   <img src="https://media.giphy.com/media/dXi6fp4tn2t30bAQOB/giphy.gif" width="400"/>
-</div>
+
 
 ### Hello! 👋 I'm Lary! 👩‍💻
 I am a Front End developer, fresh baked <Laboratory> graduate.
@@ -48,4 +48,4 @@ I am a Front End developer, fresh baked <Laboratory> graduate.
   - Ukranian - Advanced
   - Polish - Advanced
   
-  
+  </div>

@@ -17,13 +17,16 @@
 </div>
 
 ### Hello! 👋 I'm Lary! 👩‍💻
-I am a Front End developer, fresh baked <Laboratory> graduate.
+I am a Front End developer, fresh baked Laboratory graduate.
+  
 👀 I’m interested in learning, neuroscience and data... 😎
   
 - :telescope: I’m looking for a best place to work and grow and develop.
 - :seedling: Exploring React, Javascript.
 - :zap: I am political activist, big fan of technological singularity, serie binge watcher and ukulele player.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larysay/)
+- :mailbox: How to reach me: [![Linkedin Badge]<a href="https://www.linkedin.com/in/larysay">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
   ---
 ### 💾 Tech Skills :

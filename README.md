@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/larysay">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dXi6fp4tn2t30bAQOB/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dXi6fp4tn2t30bAQOB/giphy.gif" width="400"/>
 </div>
 
 ### Hello! 👋 I'm Lary! 👩‍💻

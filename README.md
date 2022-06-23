@@ -18,16 +18,16 @@
 
 ### Hello! 👋 I'm Lary! 👩‍💻
 I am a Front End developer, fresh baked <Laboratory> graduate.
-👀 I’m interested in learning, comprehend and cachai'ng... 😎
+👀 I’m interested in learning, neuroscience and data... 😎
   
-- :telescope: I’m looking to collaborate on 💞️at a place that letting me dive in the big ocean of programming 🌊🌊🌊
+- :telescope: I’m looking for a best place to work and grow and develop.
 - :seedling: Exploring React, Javascript.
 - :zap: I am political activist, big fan of technological singularity, serie binge watcher and ukulele player.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larysay/)
   
   ---
-💾 Tech Skills :
-<div>
+### 💾 Tech Skills :
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -39,4 +39,13 @@ I am a Front End developer, fresh baked <Laboratory> graduate.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" **alt="Codepen" width="40" height="40" color="white"/>
 </div>
+  
+  ---
+  ### :writing_hand: Languages :
+  - English
+  - Spanish
+  - Russian
+  - Ukranian
+  - Polish
+  
   

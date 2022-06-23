@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
 </div>
-<div id="badges"  align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/larysay">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
+<div align="right">
   <img src="https://media.giphy.com/media/dXi6fp4tn2t30bAQOB/giphy.gif" width="400"/>
 </div>
 
@@ -27,7 +27,7 @@ I am a Front End developer, fresh baked <Laboratory> graduate.
   
   ---
 ### 💾 Tech Skills :
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

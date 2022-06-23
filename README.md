@@ -24,7 +24,7 @@ I am a Front End developer, fresh baked Laboratory graduate.
 - :telescope: I’m looking for a best place to work and grow and develop.
 - :seedling: Exploring React, Javascript.
 - :zap: I am political activist, big fan of technological singularity, serie binge watcher and ukulele player.
-- :mailbox: How to reach me: [![Linkedin Badge]<a href="https://www.linkedin.com/in/larysay">
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/larysay">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   

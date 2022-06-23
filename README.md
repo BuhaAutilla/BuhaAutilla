@@ -42,10 +42,10 @@ I am a Front End developer, fresh baked <Laboratory> graduate.
   
   ---
   ### :writing_hand: Languages :
-  - English
-  - Spanish
-  - Russian
-  - Ukranian
-  - Polish
+  - English - Advanced
+  - Spanish  - Advanced
+  - Russian - Native
+  - Ukranian - Advanced
+  - Polish - Advanced
   
   

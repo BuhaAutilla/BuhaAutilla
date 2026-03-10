@@ -34,8 +34,9 @@ My experience combines product thinking, research methodology, and technical exe
 My training path also includes Laboratoria, along with additional learning in Python, statistics, and data analysis.
 
 ## Languages
-English · Spanish · Russian · Polish
+English · Spanish
 
 ## Connect
-- LinkedIn: [add link]
-- Email: [add email]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Larysa_Yanushchyk-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/larysay)
+[![Email](https://img.shields.io/badge/Email-Write_to_me-lightgrey?style=for-the-badge&logo=gmail)](mailto:buha.autilla@gmail.com)

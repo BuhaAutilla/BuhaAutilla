@@ -1,53 +1,41 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/larysay">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=yqbmZhd1ZFo">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Laura_Yanush">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dXi6fp4tn2t30bAQOB/giphy.gif" width="400"/>
-</div>
+# Hi, I'm Larysa Yanushchyk
 
-### Hello! 👋 I'm Lary! 👩‍💻
-I am a Front End developer, fresh baked Laboratory graduate.
-  
-👀 I’m interested in learning, neuroscience and data... 😎
-  
-- :telescope: I’m looking for a best place to work and grow and develop.
-- :seedling: Exploring React, Javascript.
-- :violin: I am political activist, big fan of technological singularity, serie binge watcher and ukulele player.
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/larysay">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  ---
-### 💾 Tech Skills :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" **alt="Codepen" width="40" height="40" color="white"/>
-</div>
-  
-  ---
-  ### :writing_hand: Languages :
-  - English - Advanced
-  - Spanish  - Advanced
-  - Russian - Native
-  - Ukranian - Advanced
-  - Polish - Advanced
-  
+Data Analyst with a background in product management, behavioral research, and software development.
+
+I work with SQL, Python, and visualization tools to analyze product, customer, and operational data, turning raw datasets into clear findings, business insights, and actionable recommendations.
+
+## Focus Areas
+- Product Analytics
+- Customer & Behavioral Analysis
+- KPI Tracking and Reporting
+- Experiment Analysis
+- Data Cleaning and Exploratory Analysis
+
+## Tools
+SQL · Python · Pandas · NumPy · Tableau · Excel · Google Sheets · Git
+
+## What I work on
+- SQL analysis for funnels, segments, and KPIs
+- Python-based data cleaning and exploratory analysis
+- Customer behavior and retention analysis
+- Experiment and hypothesis-driven analytics
+- Dashboards and reporting for business decisions
+
+## Featured Projects
+- SQL Product Funnel Analysis
+- Customer Retention & Cohort Analysis
+- A/B Test Analysis
+- Marketing Performance Dashboard
+- Data Cleaning Workflow
+
+## Background
+My experience combines product thinking, research methodology, and technical execution across enterprise environments, startup work, and software development.
+
+My training path also includes Laboratoria, along with additional learning in Python, statistics, and data analysis.
+
+## Languages
+English · Spanish · Russian · Polish
+
+## Connect
+- LinkedIn: [add link]
+- Email: [add email]

@@ -5,20 +5,21 @@ Data Analyst with a background in product management, behavioral research, and s
 I work with SQL, Python, and visualization tools to analyze customer, product, and business data, turning raw datasets into clear insights and actionable recommendations.
 
 ## Focus Areas
-- Product Analytics
-- Business Analytics
-- Customer Behavior Analysis
-- Experiment Analysis
-- KPI Tracking and Reporting
+- Product & Business Analytics
+- Customer and Behavioral Analytics
+- Experimentation & A/B Testing
+- KPI Design, Tracking & Decision Support
+- AI-Assisted Analytics & Workflow Automation
 
 ## Tools
-SQL · Python · Pandas · NumPy · Tableau · Excel · Git
+SQL · Python · Pandas · NumPy · PostgreSQL · Tableau · Excel · Jupyter · Git · AI-Assisted Tools
 
 ## Featured Projects
+- AI-Assisted Workflow for Robotics Telemetry Processing
 - SQL Online Retail Performance Analysis
 - A/B Test Analysis of a Simplified Checkout Flow
 - Customer Segmentation Analysis
-
+  
 ## Languages
 English · Spanish
 
